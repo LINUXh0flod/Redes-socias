@@ -17,8 +17,8 @@ width: 100vw;
 
 a{
 display: block;
-background-color: darkred;
-padding: 20px;
+background-color: rgb(0, 0, 0);
+padding: 5px;
 text-align: center;
 font-weight: bolder;
 text-decoration: none;
@@ -26,5 +26,5 @@ color: white;
 }
 
 a:hover {
-  background-color: red;
+  background-color: rgb(36, 35, 35);
 }
