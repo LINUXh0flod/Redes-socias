@@ -23,7 +23,6 @@ main {
   height: 100vh;
   position: relative;
   margin: 0;
-  
 }
 
 #telefone {
@@ -46,6 +45,7 @@ height: 471px;
 }
 #redes-sociais {
   text-align: right;
+  margin-left: 1em;
 }
 #redes-sociais img {
 width: 50px;
